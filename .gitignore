@@ -1,0 +1,54 @@
+# Node.js
+/node_modules/
+/npm-debug.log
+/yarn-error.log
+/pnpm-debug.log
+/package-lock.json
+/yarn.lock
+/pnpm-lock.yaml
+
+# Build directories
+/build/
+/dist/
+/out/
+
+# TypeScript
+*.tsbuildinfo
+*.d.ts
+
+# Logs
+*.log
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+
+# Editor config files
+*.swp
+*.swo
+
+# Jest
+/coverage/
+
+# React Native
+*.expo/
+
+# VS Code settings
+.vscode/
+
+# .env files
+.env
+.env.local
+.env.*.local
+
+# Jest test files
+*.test.js
+*.test.ts
+*.test.tsx
+
+# Docker
+.dockerignore
