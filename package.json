@@ -1,6 +1,6 @@
 {
-  "name": "clvi",
-  "version": "1.0.0",
+  "name": "@damian.diego/clvi",
+  "version": "1.0.1",
   "description": "Package with intital configuration and tools.",
   "main": "dist/index.js",
   "author": "Damian Luano Diego",
